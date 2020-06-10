@@ -1,0 +1,1 @@
+# sample-ios-project-cocoapods-test-renovatebot
